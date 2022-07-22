@@ -1,7 +1,7 @@
 from telethon import events
 from telethon.events import NewMessage
 
-from config import cmd_prefix
+from config import PREFIX
 from utils.pluginmgr import KantekPlugin
 
 
